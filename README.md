@@ -13,7 +13,8 @@ Dongguk University
 e-mail : rudebono@gmail.com, yun6686@gmail.com, ckddn3310@naver.com, dongho.kim@dgu.edu
 
 # 2018 대한전자공학회 하계종합학술대회
-## 컴퓨터 소사이어티 부문 (포스터)
+컴퓨터 소사이어티 부문 (포스터)
+
 CFP-069 p.1160 ~ p.1163
 
 https://github.com/rudebono/bcr/blob/master/paper.pdf
